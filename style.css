@@ -43,7 +43,6 @@ header {
 
 /* --- Tab content --- */
 .tabcontent {
-  display: none;
   padding: 20px;
   animation: fadeEffect 0.5s;
 }
